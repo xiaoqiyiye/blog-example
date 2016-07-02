@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="profiler.settings.instrument.empty.methods">true</entry>
+<entry key="ProfilerCPUSettings_profile_runnables">true</entry>
+<entry key="profiler.settings.n.profiled.threads.limit">32</entry>
+<entry key="ProfilerCPUSettings_filter_type">2</entry>
+<entry key="profiler.settings.obj.alloc.stack.sampling.depth">-1</entry>
+<entry key="profiler.settings.instrument.method.invoke">true</entry>
+<entry key="profiler.settings.instr.scheme">1</entry>
+<entry key="ProfilerMemorySettings_track_every">10</entry>
+<entry key="ProfilerMemorySettings_mode">4</entry>
+<entry key="ProfilerCPUSettings_root_classes">org.apache.mina.example.chat.**
+org.apache.mina.example.echoserver.**
+org.apache.mina.example.gettingstarted.timeserver.**
+org.apache.mina.example.haiku.**
+org.apache.mina.example.imagine.step1.**
+org.apache.mina.example.imagine.step2.server.**
+org.apache.mina.example.imagine.step3.server.**
+org.apache.mina.example.netcat.**
+org.apache.mina.example.proxy.**
+org.apache.mina.example.reverser.**
+org.apache.mina.example.sumup.**
+org.apache.mina.example.tapedeck.**
+org.apache.mina.example.tcp.perf.**
+org.apache.mina.example.tennis.**
+org.apache.mina.example.udp.**
+seven.mina.timeserver.**
+</entry>
+<entry key="ProfilerCPUSettings_filter_value">org.apache.mina.example.chat.*,&#13;
+org.apache.mina.example.echoserver.*,&#13;
+org.apache.mina.example.gettingstarted.timeserver.*,&#13;
+org.apache.mina.example.haiku.*,&#13;
+org.apache.mina.example.imagine.step1.*,&#13;
+org.apache.mina.example.imagine.step2.server.*,&#13;
+org.apache.mina.example.imagine.step3.server.*,&#13;
+org.apache.mina.example.netcat.*,&#13;
+org.apache.mina.example.proxy.*,&#13;
+org.apache.mina.example.reverser.*,&#13;
+org.apache.mina.example.sumup.*,&#13;
+org.apache.mina.example.tapedeck.*,&#13;
+org.apache.mina.example.tcp.perf.*,&#13;
+org.apache.mina.example.tennis.*,&#13;
+org.apache.mina.example.udp.*,&#13;
+seven.mina.timeserver.*</entry>
+<entry key="profiler.settings.istrument.getter.setter.methods">true</entry>
+<entry key="myeclipse.profiling.mode">0</entry>
+<entry key="ProfilerMemorySettings_stacktraces">-1</entry>
+<entry key="profiler.settings.sampling.interval">10</entry>
+<entry key="profiler.settings.cpu.profiling.type">0</entry>
+</properties>
